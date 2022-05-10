@@ -3,8 +3,12 @@ git add '文件名'
 或者 . 代表当前目录文件都添加
 git add .
 
-2、提交文件
+git 1
+2、提交文件前 需要先git add ...
 git commit -m '备注'
+撤销提交前的所有操作  git reset --hard HEAD
+git commit -m “new commit desc”
+
 
 查看分支名称：git branch
 切换分支：git checkout 分支名称
