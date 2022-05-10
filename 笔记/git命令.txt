@@ -6,9 +6,17 @@ git add .
 git 1.1
 2、提交文件前 需要先git add ...
 git commit -m '备注'
-撤销提交前的所有操作  git reset --hard HEAD
+
 git commit -m “new commit desc”
 
+///修改描述成功  开始
+使用git reset --hard HEAD  撤销提交前的所有操作可以修改描述 
+    然后git add  
+在git commit -m ""  
+ checkout  主线
+merge
+push
+//修改描述成功结束
 
 查看分支名称：git branch
 切换分支：git checkout 分支名称
