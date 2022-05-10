@@ -19,6 +19,13 @@ merge
 push
 //修改描述成功结束
 
+//也可以修改描述成功
+//git add .
+//git commit -m "new commit desc"
+//git checkout main
+//git merge
+//git push
+//结束修改 描述
 查看分支名称：git branch
 切换分支：git checkout 分支名称
 先切换到主线
