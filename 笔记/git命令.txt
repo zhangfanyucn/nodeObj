@@ -4,6 +4,7 @@ git add '文件名'
 git add .
 
 git 1.1
+2
 2、提交文件前 需要先git add ...
 git commit -m '备注'
 
