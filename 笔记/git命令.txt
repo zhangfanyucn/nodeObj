@@ -1,0 +1,12 @@
+1、添加文件
+git add '文件名' 
+或者 . 代表当前目录文件都添加
+git add .
+
+2、提交文件
+git commit -m '备注'
+
+查看分支名称：git branch
+切换分支：git checkout 分支名称
+先切换到主线
+合并分支到主线：git merge 分支名称
